@@ -135,7 +135,7 @@ export default function Page() {
               id: "1",
               name: "Jennifer Walsh",
               role: "CTO at TechStart",
-              testimonial: "Sargas delivered a robust web application that exceeded our expectations. Their attention to detail and technical expertise is outstanding.",
+              testimonial: "",
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Jennifer Walsh"
             },
@@ -143,7 +143,7 @@ export default function Page() {
               id: "2",
               name: "Robert Martinez",
               role: "CEO at InnovateLab",
-              testimonial: "The mobile app they developed for us has significantly improved our customer engagement. Professional team with excellent communication.",
+              testimonial: "",
               imageSrc: "https://images.pexels.com/photos/3755824/pexels-photo-3755824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Robert Martinez"
             },
@@ -151,7 +151,7 @@ export default function Page() {
               id: "3",
               name: "Lisa Anderson",
               role: "Operations Manager at DataFlow",
-              testimonial: "Their IT consulting services helped us streamline our processes and reduce costs. Highly recommend their expertise.",
+              testimonial: "",
               imageSrc: "https://images.pexels.com/photos/12885861/pexels-photo-12885861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Lisa Anderson"
             },
@@ -159,7 +159,7 @@ export default function Page() {
               id: "4",
               name: "David Kumar",
               role: "Founder at StartupX",
-              testimonial: "From concept to deployment, Sargas provided exceptional service. They truly understand modern business needs.",
+              testimonial: "",
               imageSrc: "https://images.pexels.com/photos/5989942/pexels-photo-5989942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "David Kumar"
             }
