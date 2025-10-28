@@ -36,8 +36,8 @@ export default function Page() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Innovative IT Solutions"
-          description="We build cutting-edge software solutions that drive digital transformation for modern businesses"
+          title="SARGAS"
+          description=""
           tag="IT Development"
           tagIcon={Code2}
           buttons={[
